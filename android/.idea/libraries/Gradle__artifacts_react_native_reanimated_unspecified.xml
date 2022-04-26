@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:react-native-reanimated:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/29c717f6af047f7f6b6fa416ceb343a2/transformed/jetified-react-native-reanimated-67-jsc/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/29c717f6af047f7f6b6fa416ceb343a2/transformed/jetified-react-native-reanimated-67-jsc/res" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/29c717f6af047f7f6b6fa416ceb343a2/transformed/jetified-react-native-reanimated-67-jsc/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
